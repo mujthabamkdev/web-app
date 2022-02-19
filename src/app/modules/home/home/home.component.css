@@ -1,0 +1,11 @@
+.error-msg{
+    color: red;
+}
+
+label, li{
+    font-weight: bold;
+}
+
+.words-count-div{
+    margin-top: 20px;
+}
